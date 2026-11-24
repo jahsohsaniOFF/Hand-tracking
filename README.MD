@@ -5,7 +5,7 @@ Tested on **Windows 10/11**, **Python 3.12**, inside a virtual environment.
 
 ---
 
-## ✨ Features
+## Features
 - Real-time detection of 1–2 hands
 - Landmark and connection overlay
 - **Reliable finger counting**, including the **thumb**
@@ -15,7 +15,7 @@ Tested on **Windows 10/11**, **Python 3.12**, inside a virtual environment.
 
 ---
 
-## 🧰 Requirements
+## Requirements
 - Windows 10+ (x64)
 - Python **3.12**
 - A working webcam
@@ -25,7 +25,7 @@ Tested on **Windows 10/11**, **Python 3.12**, inside a virtual environment.
 
 ---
 
-## 🚀 Quick Setup (Command Prompt / CMD)
+## Quick Setup (Command Prompt / CMD)
 
 1) Create (or reuse) the venv:
 ```bat
